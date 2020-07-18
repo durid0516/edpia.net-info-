@@ -9,7 +9,7 @@
 
 
 <p align="center" style="line-height:0; font-size:40px; font-family:&#39;휴먼엑스포&#39;, &#39;맑은 고딕&#39;, &#39;돋움&#39;">정보 <font size="3"> Informatics</font></p>
-<p align="center"><img src="./22.png"></p>
+<p align="center"><img src="./33."></p>
 
 
 
