@@ -1,9 +1,3 @@
-</script>
-
-
-
-<title>Informatics</title>
-<link href="./Informatics_files/class.css" rel="stylesheet" type="text/css">
 </head>
 
 
