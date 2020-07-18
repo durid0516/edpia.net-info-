@@ -1,1 +1,1 @@
-# 로딩중학교
+# edpia.net-info
