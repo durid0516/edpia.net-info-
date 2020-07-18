@@ -1,12 +1,3 @@
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-121427083-3');
-</script>
-
-
 <script type="text/javascript">
 if(!wcs_add) var wcs_add = {};
 wcs_add["wa"] = "5a4df21aa6c698";
