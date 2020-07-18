@@ -1,6 +1,3 @@
-</head>
-
-
 <body>
 <div class="top-informatics"></div>
 
