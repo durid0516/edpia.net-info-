@@ -33,7 +33,7 @@
 <p class="level_3"><a href="materials/final_1/3-2_.pdf">Ⅲ-2-1. 알고리즘 설계</a></p>
 <p class="level_3"><a href="materials/final_1/3-scratch_.pdf">스크래치 프로그래밍</a></p>
 
-<p class="level_2"># 2학기 기말고사  학습자료<img src="/new12.png"></p>
+<p class="level_2"># 2학기 기말고사  학습자료<img src="./new12.png"></p>
 <p class="level_3"><a href="materials/final_2/_1-2.pdf">Ⅰ-2. 정보 윤리</a></p>
 <p class="level_3"><a href="materials/final_2/_3-2.pdf">Ⅲ-2-2. 알고리즘 분석</a></p>
 <p class="level_3"><a href="materials/final_2/_3-3.pdf">Ⅲ-3. 프로그래밍</a></p>
