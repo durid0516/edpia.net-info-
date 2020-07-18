@@ -44,7 +44,7 @@
 [<a href="http://edpia.net/info/materials/pa12.pdf">PDF</a>]
 </p><p class="level_3">① Ⅰ-1. 정보 사회</p>
 <p class="level_3">② Ⅰ-2. 정보 윤리</p>
-<p class="level_2"># <a href="https://pds.joins.com/news/component/htmlphoto_mmdata/200707/htm_20070711141535c000c010-001.JPG">1학기 기말고사  학습자료</a> [<a href="http://edpia.net/info/materials/final1.pdf">PDF</a>]<img src="./Informatics_files/new12.png"></p>
+<p class="level_2"># <a href="https://mblogthumb-phinf.pstatic.net/20130807_88/mbg0323_1375853850154kIabv_JPEG/1373280017430_1373274587838.jpg?type=w800">1학기 기말고사  학습자료</a> [<a href="http://edpia.net/info/materials/final1.pdf">PDF</a>]<img src="./Informatics_files/new12.png"></p>
 <p class="level_3">☞ 객관식 20문항 출제</p>
 
 <p class="level_2"># PDF 파일 인쇄 시, A4 1면에 4쪽씩 출력하는 방법</p>
